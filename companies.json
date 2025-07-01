@@ -1,27 +1,32 @@
 [
   {
-    "name": "Safaricom PLC",
-    "website": "https://www.safaricom.co.ke",
-    "careers": "https://www.safaricom.co.ke/careers"
-  },
-  {
-    "name": "Equity Bank Kenya",
-    "website": "https://equitygroupholdings.com/ke/",
-    "careers": "https://equitygroupholdings.com/ke/careers/"
-  },
-  {
-    "name": "Kenya Airways",
-    "website": "https://www.kenya-airways.com/",
-    "careers": "https://www.kenya-airways.com/careers/en/"
+    "name": "Equity Bank",
+    "industry": "Banking & Financial Services",
+    "website": "https://equitygroupholdings.com",
+    "description": "Leading financial services provider in East Africa",
+    "size": "Large (5000+ employees)",
+    "type": "Public Company",
+    "founded": 1984,
+    "headquarters": "Nairobi, Kenya"
   },
   {
     "name": "KCB Group",
-    "website": "https://kcbgroup.com/",
-    "careers": "https://kcbgroup.com/careers/"
+    "industry": "Banking & Financial Services",
+    "website": "https://kcbgroup.com",
+    "description": "Largest commercial bank in Kenya",
+    "size": "Large (5000+ employees)",
+    "type": "Public Company",
+    "founded": 1896,
+    "headquarters": "Nairobi, Kenya"
   },
   {
-    "name": "Bamburi Cement",
-    "website": "https://www.lafarge.co.ke/",
-    "careers": "https://www.lafarge.co.ke/careers"
+    "name": "Safaricom PLC",
+    "industry": "Telecommunications",
+    "website": "https://safaricom.co.ke",
+    "description": "Leading telecommunications company in Kenya",
+    "size": "Large (5000+ employees)",
+    "type": "Public Company",
+    "founded": 1997,
+    "headquarters": "Nairobi, Kenya"
   }
 ]
